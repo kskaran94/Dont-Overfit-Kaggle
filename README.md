@@ -10,7 +10,7 @@ My work in this script includes :
   * SelectPercentile
   * Mutual_info_classif
   
-+  Different Classification models
++ Different Classification models
   * Logistic Regression
   * Linear SVC
   * Decision Tree Classifier
